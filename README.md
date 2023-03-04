@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mr.sahiljain14@gmail.com**
 
-- 📄 Know about me  <a href="https://drive.google.com/file/d/1So1SSkx2o0CXk0LbktfkBDlTZ1bROB9v/view?usp=sharing">Resume</a>
+- 📄 Know about me  <a href="https://drive.google.com/file/d/1j6i7iWc--XRWc0dG5kkncEK7InjQ8fEU/view?usp=sharing">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
