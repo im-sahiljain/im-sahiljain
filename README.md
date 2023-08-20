@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=im-sahiljain&label=Profile%20views&color=0e75b6&style=flat" alt="im-sahiljain" /> </p>
 
-- 🔭 I’m currently working on [Age detection from image](https://github.com/im-sahiljain/MSc-Project)
-
-- 🌱 I’m currently pursuing **Master's in Computer Science at Savitribai Phule Pune University.**
+- 🌱 Recently completed a **Master's in Computer Science at Savitribai Phule Pune University.**
 
 - 👯 I’m looking to collaborate **with minds who wants to make human life more sustainable.**
 
