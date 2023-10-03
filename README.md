@@ -9,22 +9,22 @@
 
 ### Connect with me:
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/mrsahiljain)
-[![HackerRank](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg)](https://www.hackerrank.com/mrsahiljain)
+[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://linkedin.com/in/mrsahiljain)
+[![HackerRank](https://www.vectorlogo.zone/logos/hackerrank/hackerrank-icon.svg)](https://www.hackerrank.com/mrsahiljain)
 
 ### Languages and Tools:
 
-![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
-![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
-![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![C](https://www.vectorlogo.zone/logos/c/c-icon.svg)
+![CSS3](https://www.vectorlogo.zone/logos/css-3/css-3-icon.svg)
+![HTML5](https://www.vectorlogo.zone/logos/html-5/html-5-icon.svg)
+![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
+![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)
+![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)
+![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![Terraform](https://www.vectorlogo.zone/logos/terraform/terraform-icon.svg)
 ![AWS EC2](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg)
 ![Ansible](https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg)
-![GitHub Actions](https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg)
+![GitHub Actions](https://www.vectorlogo.zone/logos/github/github-icon.svg)
 
 ---
 
