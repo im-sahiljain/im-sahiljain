@@ -1,32 +1,31 @@
-# Hi there! 👋 I'm Sahil Jain, a passionate Programmer from India!
+<h1 align="center">Hi 👋, I'm Sahil Jain</h1>
+<h3 align="center">A Passionate Programmer from India</h3>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=im-sahiljain&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/im-sahiljain)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=im-sahiljain&label=Profile%20views&color=0e75b6&style=flat" alt="im-sahiljain" /> </p>
 
-- 🎓 Recently completed a **Master's in Computer Science at Savitribai Phule Pune University.**
-- 👯 I’m looking to collaborate **with minds who want to make human life more sustainable.**
-- 📫 Reach me at: [mr.sahiljain14@gmail.com](mailto:mr.sahiljain14@gmail.com)
-- 💼 LinkedIn: [mrsahiljain](https://www.linkedin.com/in/mrsahiljain/)
+- 🌱 Recently completed a **Master's in Computer Science at Savitribai Phule Pune University.**
 
-### Connect with me:
+- 👯 I’m looking to collaborate **with minds who wants to make human life more sustainable.**
 
-[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40">](https://linkedin.com/in/mrsahiljain)
-[<img src="https://www.vectorlogo.zone/logos/hackerrank/hackerrank-icon.svg" width="40">](https://www.hackerrank.com/mrsahiljain)
+- 📫 How to reach me **mr.sahiljain14@gmail.com**
 
-### Languages and Tools:
+- 📄 Know about me  <a href="https://www.linkedin.com/in/mrsahiljain/">LinkeIn (Open to Work as Software Developer)</a>
 
-[<img src="https://www.vectorlogo.zone/logos/c/c-icon.svg" width="40">](https://www.vectorlogo.zone/logos/c/c-icon.svg)
-[<img src="https://www.vectorlogo.zone/logos/css-3/css-3-icon.svg" width="40">](https://www.vectorlogo.zone/logos/css-3/css-3-icon.svg)
-[<img src="https://www.vectorlogo.zone/logos/html-5/html-5-icon.svg" width="40">](https://www.vectorlogo.zone/logos/html-5/html-5-icon.svg)
-[<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40">](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
-[<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40">](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)
-[<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40">](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)
-[<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40">](https://www.vectorlogo.zone/logos/python/python-icon.svg)
-[<img src="https://www.vectorlogo.zone/logos/terraform/terraform-icon.svg" width="40">](https://www.vectorlogo.zone/logos/terraform/terraform-icon.svg)
-[<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40">](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg)
-[<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40">](https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg)
-[<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40">](https://www.vectorlogo.zone/logos/github/github-icon.svg)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mrsahiljain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrsahiljain" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mrsahiljain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mrsahiljain" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+</a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=im-sahiljain&show_icons=true&locale=en&layout=compact" alt="im-sahiljain" /></p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=im-sahiljain&show_icons=true&locale=en&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=im-sahiljain&show_icons=true&locale=en)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=im-sahiljain&show_icons=true&locale=en" alt="im-sahiljain" /></p>
