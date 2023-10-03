@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://linkedin.com/in/mrsahiljain)
-[![HackerRank](https://www.vectorlogo.zone/logos/hackerrank/hackerrank-icon.svg)](https://www.hackerrank.com/mrsahiljain)
+<a href="https://www.hackerrank.com/mrsahiljain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mrsahiljain" height="30" width="40" /></a>
 
 ### Languages and Tools:
 
