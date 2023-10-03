@@ -22,7 +22,7 @@
 ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)
 ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
 ![Terraform](https://www.vectorlogo.zone/logos/terraform/terraform-icon.svg)
-![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg)
+![AWS EC2](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg)
 ![Ansible](https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg)
 ![GitHub Actions](https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg)
 
