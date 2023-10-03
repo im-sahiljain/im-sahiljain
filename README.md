@@ -9,22 +9,22 @@
 
 ### Connect with me:
 
-[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://linkedin.com/in/mrsahiljain)
-<a href="https://www.hackerrank.com/mrsahiljain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mrsahiljain" height="30" width="40" /></a>
+[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30">](https://linkedin.com/in/mrsahiljain)
+[<img src="https://www.vectorlogo.zone/logos/hackerrank/hackerrank-icon.svg" width="30">](https://www.hackerrank.com/mrsahiljain)
 
 ### Languages and Tools:
 
-![C](https://www.vectorlogo.zone/logos/c/c-icon.svg)
-![CSS3](https://www.vectorlogo.zone/logos/css-3/css-3-icon.svg)
-![HTML5](https://www.vectorlogo.zone/logos/html-5/html-5-icon.svg)
-![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
-![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)
-![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)
-![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
-![Terraform](https://www.vectorlogo.zone/logos/terraform/terraform-icon.svg)
-![AWS EC2](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg)
-![Ansible](https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg)
-![GitHub Actions](https://www.vectorlogo.zone/logos/github/github-icon.svg)
+[<img src="https://www.vectorlogo.zone/logos/c/c-icon.svg" width="30">](https://www.vectorlogo.zone/logos/c/c-icon.svg)
+[<img src="https://www.vectorlogo.zone/logos/css-3/css-3-icon.svg" width="30">](https://www.vectorlogo.zone/logos/css-3/css-3-icon.svg)
+[<img src="https://www.vectorlogo.zone/logos/html-5/html-5-icon.svg" width="30">](https://www.vectorlogo.zone/logos/html-5/html-5-icon.svg)
+[<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="30">](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
+[<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="30">](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)
+[<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="30">](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)
+[<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="30">](https://www.vectorlogo.zone/logos/python/python-icon.svg)
+[<img src="https://www.vectorlogo.zone/logos/terraform/terraform-icon.svg" width="30">](https://www.vectorlogo.zone/logos/terraform/terraform-icon.svg)
+[<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="30">](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg)
+[<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="30">](https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg)
+[<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="30">](https://www.vectorlogo.zone/logos/github/github-icon.svg)
 
 ---
 
