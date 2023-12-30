@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mr.sahiljain14@gmail.com**
 
-- 📄 Know about me  <a href="https://www.linkedin.com/in/mrsahiljain/">LinkeIn </a> (Open to Work as Software Developer or DevOps Engineer)
+- 📄 Know about more about me on <a href="https://www.linkedin.com/in/mrsahiljain/">LinkedIn </a> (Open to Work as Software Developer or DevOps Engineer)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
