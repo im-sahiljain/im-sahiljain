@@ -13,7 +13,7 @@
 🌱 Recently completed a **Master's in Computer Science at Savitribai Phule Pune University**.<br>
 👯 I’m looking to collaborate **with minds who wants to make human life more sustainable.**.<br>
 📫 How to reach me **mr.sahiljain14@gmail.com**<br>
-📄 Know about more about me on <a href="https://www.linkedin.com/in/mrsahiljain/">LinkedIn </a> (Open to Work as Software Developer or DevOps Engineer)
+📄 Know about more about me on <a href="https://www.linkedin.com/in/mrsahiljain/"> LinkedIn </a> (Open to Work as Software Developer or DevOps Engineer)
 
 
 
