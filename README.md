@@ -16,9 +16,9 @@ I'm a **Frontend-focused Full Stack Developer** with hands-on experience buildin
 Currently working at **Xyberia Technologies** where I architect full-stack solutions, lead code reviews, and optimize frontend performance. I'm passionate about clean code, component-driven architecture, and delivering production-ready solutions in agile environments.
 
 - 🎓 **M.Sc. in Computer Science** — Savitribai Phule Pune University  
-- 📍 **Location:** Jaipur, India  
+- 📍 **Location:** India  
 - 📧 **Email:** [mr.sahiljain14@gmail.com](mailto:mr.sahiljain14@gmail.com)  
-- 🔗 **Open to Work:** Software Developer (React.js, Full Stack)
+- 🔗 **Open to Work:** Software Developer, Frontend Developer, Full Stack Developer
 
 ---
 
