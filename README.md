@@ -2,9 +2,9 @@
 <h3 align="center">Frontend-Focused Full Stack Developer | React.js • Next.js • TypeScript</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/imsahiljain">
-    <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=flat-square" alt="Open to Work" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=im-sahiljain&label=Profile%20views&color=0e75b6&style=flat" alt="im-sahiljain" alt="Profile views" />
+  <br/>
+  <a href="https://linkedin.com/in/imsahiljain"><img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=flat-square" alt="Open to Work" /></a>
 </p>
 
 <p align="center">
