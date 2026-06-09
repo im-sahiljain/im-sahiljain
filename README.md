@@ -102,7 +102,7 @@ Jest • Postman • Swagger • Axios
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=im-sahiljain\&layout=compact\&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amandubey&theme=react&layout=compact&hide=html&bg_color=1B3A6B&text_color=white&title_color=61DAFB)
 
 ---
 
