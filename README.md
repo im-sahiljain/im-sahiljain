@@ -13,11 +13,13 @@
 
 I'm a **Frontend-focused Full Stack Developer** with hands-on experience building scalable, high-performance web applications using **React.js**, **Next.js**, and modern web technologies. 
 
-Currently working at **Xyberia Technologies** where I architect full-stack solutions, lead code reviews, and optimize frontend performance. I'm passionate about clean code, component-driven architecture, and delivering production-ready solutions in agile environments.
+With hands on experience in full-stack development, leading code reviews, and optimize frontend performance. I'm passionate about clean code, component-driven architecture, and delivering production-ready solutions in agile environments.
 
 - 🎓 **M.Sc. in Computer Science** — Savitribai Phule Pune University  
 - 📍 **Location:** India  
-- 📧 **Email:** [mr.sahiljain14@gmail.com](mailto:mr.sahiljain14@gmail.com)  
+- 📧 **Email:** [mr.sahiljain14@gmail.com](mailto:mr.sahiljain14@gmail.com)
+- **Portfolio:** [imsahiljain.in](https://imsahiljain.in)
+- **Resume:** [Resume](https://resume.imsahiljain.in)
 - 🔗 **Open to Work:** Software Developer, Frontend Developer, Full Stack Developer
 
 ---
@@ -77,7 +79,7 @@ Currently working at **Xyberia Technologies** where I architect full-stack solut
 ## 💼 Work Experience
 
 ### Software Development Engineer @ Xyberia Technologies
-**Nov 2024 – Present | Jaipur**
+**Nov 2024 – May 2026 | Jaipur**
 
 - Architected full-stack Next.js + React admin dashboard with JWT authentication, RBAC, and dual-login systems
 - Engineered reusable React component library reducing development effort by 20–25%
@@ -98,14 +100,21 @@ Currently working at **Xyberia Technologies** where I architect full-stack solut
 
 ## 🚀 Featured Projects
 
-### [FeedBack Desk AI](https://feedbackdesk.ai)
+### [Org Control](https://orgcontrol.imsahiljain.in)
+**AI-powered recruitment and candidate search platform**
+- **Tech:** Next.js, React.js, TypeScript, Gemini API, MongoDB Atlas Vector Search
+- Built semantic candidate search using RAG and vector embeddings from uploaded resumes
+- Enabled natural-language profile discovery with AI-powered candidate matching
+- Developed candidate management workflows with advanced filtering and resume processing
+
+### [FeedBack Desk AI](https://feedbackdeskai.imsahiljain.in)
 **Full-stack AI-powered feedback management platform**
 - **Tech:** Next.js, React.js, TypeScript, Redux, AI Integration
 - Enabled real-time feedback collection and AI-driven sentiment analysis
 - Implemented auto-tagging for sentiment, category, and priority classification
 - Optimized performance with code splitting, lazy loading, and memoization
 
-### [Which Ethanol](https://whichethanol.com)
+### [Which Ethanol](https://whichethanol.imsahiljain.in)
 **Vehicle compatibility database and lookup system**
 - **Tech:** React.js, MongoDB, AI Validation
 - Structured vehicle data for 30+ manufacturers and 50+ models
