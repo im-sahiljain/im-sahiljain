@@ -18,8 +18,8 @@ With hands on experience in full-stack development, leading code reviews, and op
 - 🎓 **M.Sc. in Computer Science** — Savitribai Phule Pune University  
 - 📍 **Location:** India  
 - 📧 **Email:** [mr.sahiljain14@gmail.com](mailto:mr.sahiljain14@gmail.com)
-- **Portfolio:** [imsahiljain.in](https://imsahiljain.in)
-- **Resume:** [Resume](https://resume.imsahiljain.in)
+- 🌐 **Portfolio:** [imsahiljain.in](https://imsahiljain.in)
+- 📄 **Resume:** [Resume](https://resume.imsahiljain.in)
 - 🔗 **Open to Work:** Software Developer, Frontend Developer, Full Stack Developer
 
 ---
