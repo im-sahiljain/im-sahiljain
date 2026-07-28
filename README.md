@@ -18,7 +18,7 @@
 
 ## 💼 About Me
 
-Frontend-focused Full Stack Developer with 2+ years of experience building scalable web applications using React.js, Next.js, TypeScript, Node.js, and MongoDB.
+Full Stack Developer with almost 2 years of experience building scalable web applications using React.js, Next.js, TypeScript, Node.js, and MongoDB.
 
 Experienced in architecting production-grade applications, optimizing frontend performance, integrating APIs, and building AI-powered products.
 
