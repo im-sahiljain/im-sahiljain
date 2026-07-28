@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Jain</h1>
-<h3 align="center">Frontend-Focused Full Stack Developer | React.js • Next.js • TypeScript</h3>
+<h3 align="center">Full Stack Developer | React.js • Next.js • TypeScript</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=im-sahiljain&label=Profile%20views&color=0e75b6&style=flat" alt="im-sahiljain" alt="Profile views" />
